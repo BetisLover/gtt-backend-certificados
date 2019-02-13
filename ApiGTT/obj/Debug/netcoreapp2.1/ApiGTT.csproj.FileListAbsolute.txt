@@ -1,0 +1,14 @@
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\bin\Debug\netcoreapp2.1\ApiGTT.deps.json
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\bin\Debug\netcoreapp2.1\ApiGTT.runtimeconfig.json
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\bin\Debug\netcoreapp2.1\ApiGTT.runtimeconfig.dev.json
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\bin\Debug\netcoreapp2.1\ApiGTT.dll
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\bin\Debug\netcoreapp2.1\ApiGTT.pdb
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.RazorAssemblyInfo.cache
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.RazorAssemblyInfo.cs
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.RazorTargetAssemblyInfo.cache
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.dll
+C:\Users\Ruben\Desktop\ApiGTT\ApiGTT\obj\Debug\netcoreapp2.1\ApiGTT.pdb
