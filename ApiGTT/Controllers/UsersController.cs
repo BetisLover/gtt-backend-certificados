@@ -52,6 +52,7 @@ namespace ApiGTT.Controllers
         [HttpPost]
         public ActionResult<Users> Post([FromBody] Users value)
         {
+           value.password = Encrypt.Hash(value.password);
            this._context.Users.Add(value);
             
             this._context.SaveChanges();

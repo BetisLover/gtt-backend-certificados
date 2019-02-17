@@ -41,7 +41,7 @@ namespace ApiGTT.Controllers
                 Users UserResult = this._context.Users.Where(
                 user => user.username == value.username).FirstOrDefault();
                 Control control;
-                if (UserResult.password == value.password)
+                if (UserResult.password == Encrypt.Hash(value.password))
                 {
                     string token = JWT.Encode(value.role, "top secret", JweAlgorithm.PBES2_HS256_A128KW, JweEncryption.A256CBC_HS512);
                     control = new Control(200, "todo bien", token, UserResult.id, UserResult.role);
